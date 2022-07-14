@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lonnie-nguyen
 - 👀 I’m interested in technology (software & gadgets), and music 
-- 🌱 I’m currently in the Master of Software Engineering program at UC Irvine (cohort 2022)
+- 🌱 I’m currently in the Master of Software Engineering program at UC Irvine (2021 cohort: Dec 2022 graduation)
 - 📫 How to reach me: loann@uci.edu
 
 
